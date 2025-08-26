@@ -31,3 +31,14 @@ Student s1;
     cout << "Result: " << s1.result << endl;
 
 }
+Output:
+Name: Yashvesh Singh
+Branch: ENTC
+Subject: C++
+Year: 2nd Year
+Result: 9.4
+Name: Himansh Raj
+Branch: Computer Science
+Subject: Python
+Year: 2nd Year
+Result: 6.9
